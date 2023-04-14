@@ -1,0 +1,1 @@
+メモ帳でCRLFのファイルを作成、TortoiseGitのautocrlfをinputにしてコミット、プッシュ。
