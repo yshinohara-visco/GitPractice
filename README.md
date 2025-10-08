@@ -2,6 +2,6 @@
 
 create
 
-comit master
+comit master a
 
 edit1
