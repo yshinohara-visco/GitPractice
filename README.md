@@ -11,4 +11,4 @@ feature2
 test
 testes
 
-edit in feature1
+edit in feature1 and fearure2
